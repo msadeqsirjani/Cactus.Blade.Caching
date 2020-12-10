@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXeLGPRbp2C3f7nYuJj0ft6AiOySeNPqT8Dcjg9MDFbtmXiShHLHiRtjRND572vzUlZ/auurKfs8e1LesR6i0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Caching\\Cactus.Blade.Caching\\Caching\\Caching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

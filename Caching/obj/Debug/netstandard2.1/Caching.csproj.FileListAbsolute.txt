@@ -1,0 +1,17 @@
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\bin\Debug\netstandard2.1\Cactus.Blade.Caching.deps.json
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\bin\Debug\netstandard2.1\Cactus.Blade.Caching.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\bin\Debug\netstandard2.1\Cactus.Blade.Caching.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\obj\Debug\netstandard2.1\Caching.AssemblyInfoInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\obj\Debug\netstandard2.1\Caching.AssemblyInfo.cs
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\obj\Debug\netstandard2.1\Caching.csproj.CoreCompileInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\obj\Debug\netstandard2.1\Cactus.Blade.Caching.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\obj\Debug\netstandard2.1\Cactus.Blade.Caching.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Caching\Cactus.Blade.Caching\Caching\bin\Debug\netstandard2.1\Cactus.Blade.Caching.deps.json
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Caching\Cactus.Blade.Caching\Caching\bin\Debug\netstandard2.1\Cactus.Blade.Caching.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Caching\Cactus.Blade.Caching\Caching\bin\Debug\netstandard2.1\Cactus.Blade.Caching.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Caching\Cactus.Blade.Caching\Caching\obj\Debug\netstandard2.1\Caching.csprojAssemblyReference.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Caching\Cactus.Blade.Caching\Caching\obj\Debug\netstandard2.1\Caching.AssemblyInfoInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Caching\Cactus.Blade.Caching\Caching\obj\Debug\netstandard2.1\Caching.AssemblyInfo.cs
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Caching\Cactus.Blade.Caching\Caching\obj\Debug\netstandard2.1\Caching.csproj.CoreCompileInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Caching\Cactus.Blade.Caching\Caching\obj\Debug\netstandard2.1\Cactus.Blade.Caching.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Caching\Cactus.Blade.Caching\Caching\obj\Debug\netstandard2.1\Cactus.Blade.Caching.pdb

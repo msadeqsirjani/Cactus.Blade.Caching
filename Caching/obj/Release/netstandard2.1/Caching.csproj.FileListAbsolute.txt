@@ -1,0 +1,8 @@
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\bin\Release\netstandard2.1\Cactus.Blade.Caching.deps.json
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\bin\Release\netstandard2.1\Cactus.Blade.Caching.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\bin\Release\netstandard2.1\Cactus.Blade.Caching.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\obj\Release\netstandard2.1\Caching.AssemblyInfoInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\obj\Release\netstandard2.1\Caching.AssemblyInfo.cs
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\obj\Release\netstandard2.1\Caching.csproj.CoreCompileInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\obj\Release\netstandard2.1\Cactus.Blade.Caching.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\obj\Release\netstandard2.1\Cactus.Blade.Caching.pdb

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cactus.Blade.Caching</id>
+    <version>1.2.1</version>
+    <authors>Mohammad Sadeq Sirjani</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>cactus.png</icon>
+    <projectUrl>https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Caching</projectUrl>
+    <description>Caching is a simple utility that solves a common problem pragmatically - storing and accessing objects quickly in a .NET app.</description>
+    <releaseNotes>Caching is a simple utility that solves a common problem pragmatically - storing and accessing objects quickly in a .NET app.</releaseNotes>
+    <copyright>@Copyright 2020</copyright>
+    <repository url="https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Caching" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Caching\bin\Release\netstandard2.1\Cactus.Blade.Caching.dll" target="lib\netstandard2.1\Cactus.Blade.Caching.dll" />
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\cactus.png" target="cactus.png" />
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\LICENSE" target="LICENSE" />
+  </files>
+</package>
