@@ -1,0 +1,10 @@
+language: csharp
+mono: none
+dotnet: 2.1.502
+solution: Cactus.Blade.Caching.sln
+install:
+  - dotnet restore
+script:
+  - dotnet msbuild /p:Configuration=Release Cactus.Blade.Caching.sln
+  - dotnet restore
+  - dotnet test Caching.Test/Caching.Test.csproj
